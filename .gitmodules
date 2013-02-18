@@ -1,3 +1,6 @@
 [submodule "field-of-view"]
 	path = field-of-view
 	url = git://github.com/illuminationgames/field-of-view.git
+[submodule "fov-lighting"]
+	path = fov-lighting
+	url = git://github.com/illuminationgames/field-of-view.git
